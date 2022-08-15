@@ -113,7 +113,7 @@
       "url": "css\/custom.css"
     },
     {
-      "hash": "sha256-zBkMg2ad1EZuu5c3ruLjyQCkYMFE8\/g5cW5P2BxBivg=",
+      "hash": "sha256-M6DMdG1feOtpfrp5R1Jgc60MWOE8fZD5ILrB7FR4J04=",
       "url": "css\/tailwind.css"
     },
     {
@@ -785,5 +785,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "JjU19q7X"
+  "version": "3M8E9Tg1"
 };

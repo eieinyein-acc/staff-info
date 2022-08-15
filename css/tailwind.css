@@ -3368,3 +3368,9 @@ video {
 .bg-\[\#d8f1ff\] {
     background: #e5f2ff;
 }
+
+.menu-active {
+    background-image: linear-gradient(to right, var(--tw-gradient-stops));
+    --tw-text-opacity: 1;
+    color: rgb(255 255 255 / var(--tw-text-opacity));
+}
