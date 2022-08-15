@@ -113,7 +113,7 @@
       "url": "css\/custom.css"
     },
     {
-      "hash": "sha256-83MZVpWTMe6Xng1pw+v2iIjS\/zB62o4PYCtczUOtSpQ=",
+      "hash": "sha256-zBkMg2ad1EZuu5c3ruLjyQCkYMFE8\/g5cW5P2BxBivg=",
       "url": "css\/tailwind.css"
     },
     {
@@ -125,7 +125,7 @@
       "url": "css\/vendor\/slick.css"
     },
     {
-      "hash": "sha256-107sUyVvqXNBTKTKTOhmmtoSfFOPlrM+aNA7bx7NaK0=",
+      "hash": "sha256-5rgX3Z90veYdQtTKtgGWMD9HL4rjfVHm8yKEoFUCWVs=",
       "url": "data\/info.json"
     },
     {
@@ -389,7 +389,7 @@
       "url": "images\/work_images\/small\/9.jpg"
     },
     {
-      "hash": "sha256-M9uuSM4VltxhlHDXC1sWUsrOBQfpTv5uwMRhDY+IYew=",
+      "hash": "sha256-aRZF0vzDhE4Wps9uvXJgSSPkH9b1rFQ9FPoRjCpDsXA=",
       "url": "index.html"
     },
     {
@@ -785,5 +785,5 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     }
   ],
-  "version": "6Z4LfLyX"
+  "version": "JjU19q7X"
 };
