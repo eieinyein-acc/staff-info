@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "EiEiNyein.PortfolioApp.dll": "sha256-Cm2+GSLgEr1jarYDQIYnDr1Tusxx20LwdqxLzNeE4pY=",
+      "EiEiNyein.PortfolioApp.dll": "sha256-\/0wCgNDYLj9qYCOx9ne\/PSKj8Q9vFAVnJD\/zf3uJfcU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Nq\/rDWrutTLRi3B9B\/8F82r5okUPwgyudzxu0S1UDW8=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-49aYzkTrtGxWm+UPXFk8SgH7FrWFArYTlSQedrm\/ZUw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-yL06Qr6E06y0wbeDibslVXla5UPNvMxLWp3tvDcCLUs=",
